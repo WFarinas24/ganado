@@ -1,0 +1,7 @@
+{
+  "name": "Ganado",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
